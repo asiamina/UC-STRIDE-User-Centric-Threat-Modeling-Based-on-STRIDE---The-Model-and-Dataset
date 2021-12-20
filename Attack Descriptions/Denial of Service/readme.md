@@ -1,1 +1,1 @@
-# XX Attacks of Type: Denial of Service
+# 28 Attacks of Type: Denial of Service
