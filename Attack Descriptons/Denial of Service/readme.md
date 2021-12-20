@@ -1,1 +1,1 @@
-# 28 attacks of Type: Denial of Services
+# 28 Attacks of Type: Denial of Services
