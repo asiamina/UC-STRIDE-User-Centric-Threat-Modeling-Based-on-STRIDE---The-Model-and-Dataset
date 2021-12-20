@@ -1,7 +1,7 @@
 # UC-STRIDE: User-Centric Threat Modeling Based on STRIDE 
 ## The Model and Repository
 
-## Cite this repository 
+## Cite this UC-STRIDE Threat Model and Repository 
 
 Prerit Datta, Sara Sartoli, Luis Felipe Gutierrez, Faranak Abri, Akbar Siami Namin, Keith S. Jones (2022) A User-Centric Threat Model and Repository for Cyber Attacks, In Proceedings of the ACM International Symposium on Applied Computing (ACM SAC).
 
