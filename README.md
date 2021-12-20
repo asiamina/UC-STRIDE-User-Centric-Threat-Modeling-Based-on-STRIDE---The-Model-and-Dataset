@@ -1,7 +1,8 @@
 # UC-STRIDE: User-Centric Threat Modeling Based on STRIDE  
 ## The Model and Repository
 
-### A repository to support cognitive security research and comprehension 
+### A repository to support cognitive security research and comprehension.
+### The threat model is user-centric where the consequences and impacts on end users are annotated in the Microsoft STRIDE threat model. 
 
 ## Cite this UC-STRIDE Threat Model and Repository 
 
