@@ -1,1 +1,1 @@
-# XX Attacks of Type: Elevation of Privilege
+# 18 Attacks of Type: Elevation of Privilege
