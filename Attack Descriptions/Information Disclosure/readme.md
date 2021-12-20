@@ -1,1 +1,1 @@
-# XX Attacks of Type: Information Disclosure
+# 19 Attacks of Type: Information Disclosure
