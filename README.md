@@ -1,4 +1,4 @@
-# UC-STRIDE: User-Centric Threat Modeling Based on STRIDE 
+# UC-STRIDE: User-Centric Threat Modeling Based on STRIDE  
 ## The Model and Repository
 
 ## Cite this UC-STRIDE Threat Model and Repository 
