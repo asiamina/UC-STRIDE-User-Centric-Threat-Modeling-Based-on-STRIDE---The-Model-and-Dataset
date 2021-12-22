@@ -1,5 +1,5 @@
-# UC-STRIDE: User-Centric Threat Modeling Based on STRIDE  
-## The Model and Repository
+# UC-STRIDE (CogSec): User-Centric Threat Modeling Based on STRIDE  
+## The Model and Repository for Cognitive Security (CogSec)
 
 ### A repository to support cognitive security research and comprehension.
 ### The threat model is user-centric where the consequences and impacts on end users are annotated in the Microsoft STRIDE threat model. 
